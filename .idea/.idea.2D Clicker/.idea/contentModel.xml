@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\유진\.Rider2018.1\system\resharper-host\Local\Transient\ReSharperHost\v12\SolutionCaches\_2D Clicker.618445105.00" t="ExcludeRecursive" />
+    <e p="C:\Users\유진\Desktop\2D Clicker" t="IncludeRecursive">
+      <e p="2D Clicker.sln" t="IncludeFlat" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="ClickButton.cs" t="Include" />
+          <e p="DataController.cs" t="Include" />
+          <e p="ItemButton.cs" t="Include" />
+          <e p="UIManager.cs" t="Include" />
+          <e p="UpgradeButton.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>
